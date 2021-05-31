@@ -1,0 +1,18 @@
+load_sgr() -> por omissão
+load_sgr("path/to/users","path/to/business","path/to/reviewsi")
+
+show(businesses_started_by_letter(d,''))
+
+show(business_info(d,"B_ID"))
+
+show(businesses_reviewed(d,"U_ID"))
+
+show(businesses_with_stars_and_city(d,"stars","city"))
+
+show(top_businesses_by_city(d,"top"))
+
+show(international_users(d))
+
+show(top_businesses_with_category(d,"top","category"))
+
+show(reviews_with_word(d,"WORD"))
