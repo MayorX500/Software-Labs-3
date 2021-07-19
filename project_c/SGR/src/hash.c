@@ -2,7 +2,6 @@
 #include "../include/structs.h"
 #include "../include/SGR.h"
 #include "../include/load.h"
-#include "../include/getset.h"
 #include "../include/auxiliar.h"
 
 size_t long_size(char* s){
