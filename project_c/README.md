@@ -9,13 +9,13 @@ Implementation of a recommendation management system in C progamming Language.
 * `make` to run the makefile and build all essencial files
 * `make run` to run the application
 
-### How to Use
+# How to Use
 
-# Load the files
+### Load the files
 * load_sgr() -> By ommition
 * load_sgr("path/to/users","path/to/business","path/to/reviewsi")
 
-# Run the Queries
+### Run the Queries
 * show(businesses_started_by_letter(d,''))
 * show(business_info(d,"B_ID"))
 * show(businesses_reviewed(d,"U_ID"))
