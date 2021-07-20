@@ -1,11 +1,11 @@
 unnamed package
-Auxiliar
-Auxiliar.Exceptions
 Benchmarks
 Benchmarks.Unitary
 Controler
 Controler.Interfaces
 Model
 Model.Interfaces
+Util
+Util.Exceptions
 View
 View.Interfaces
