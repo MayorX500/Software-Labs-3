@@ -6,8 +6,7 @@ SGR is a recommendation management system project divided in 2 versions: one mad
 
 ### 🛠 Authors
 
-⚙️ a87998, Ariana Raquel Barreira Lousada, AITK42 
+* [Ariana Lousada](https://github.com/AITK42)
+* [Miguel Gomes](https://github.com/MayorX500)
+* [Rui Armada](https://github.com/RuiArmada)
 
-⚙️ a90468, Rui Filipe Pimenta Armada, RuiArmada 
-
-⚙️ a93294, Pedro Miguel Rodrigues Gomes, MayorX500 
