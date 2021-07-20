@@ -15,7 +15,7 @@ Implementation of a recommendation management system in C progamming Language.
 * load_sgr() -> By ommition
 * load_sgr("path/to/users","path/to/business","path/to/reviewsi")
 
-### Run the Queries
+### Run the Queries (Examples)
 * show(businesses_started_by_letter(d,''))
 * show(business_info(d,"B_ID"))
 * show(businesses_reviewed(d,"U_ID"))
