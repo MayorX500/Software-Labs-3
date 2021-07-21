@@ -10,3 +10,5 @@ SGR is a recommendation management system project divided in 2 versions: one mad
 * [Miguel Gomes](https://github.com/MayorX500)
 * [Rui Armada](https://github.com/RuiArmada)
 
+# Grade 
+⭐ (12.17/20)
