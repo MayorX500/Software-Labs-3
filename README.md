@@ -2,7 +2,7 @@
 
 ### 🎯 About the Project
 
-SGR is a recommendation management system project divided in 2 versions: one made in [C](https://github.com/RuiArmada/Software-Labs-3/tree/main/project_c), programming language, and another in [Java](https://github.com/RuiArmada/Software-Labs-3/tree/main/project_java). For specified guide of each version, follow the README file inside each folder.
+SGR is a recommendation management system project divided in 2 versions: one made in [C](https://github.com/RuiArmada/Software-Labs-3/tree/main/SGR/project_c), programming language, and another in [Java](https://github.com/RuiArmada/Software-Labs-3/tree/main/SGR/project_java). For specified guide of each version, follow the README file inside each folder.
 
 # 🛠 Authors
 
