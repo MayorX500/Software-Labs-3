@@ -6,6 +6,6 @@ Implementation of a recommendation management system in Java progamming Language
 
 # How to Run
 
-*`javac [name_of_file].java`
+* `javac [name_of_file].java`
 
-*`java [name_of_file]`
+* `java [name_of_file]`
