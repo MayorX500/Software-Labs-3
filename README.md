@@ -12,3 +12,5 @@ SGR is a recommendation management system project divided in 2 versions: one mad
 
 # Grade 
 ⭐ (12.17/20)
+  * C project: 10/20
+  * Java project: 14/20
